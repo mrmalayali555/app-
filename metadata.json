@@ -1,0 +1,8 @@
+{
+  "name": "Slot Monitor",
+  "description": "An application to monitor python script alerts via ntfy.sh slots",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
